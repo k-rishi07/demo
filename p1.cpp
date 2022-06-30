@@ -1,7 +1,9 @@
 
-#inlude<bits/stdc++.h>
-int main()
-{
-  cout<<"hello";
+#include<bits/stdc++.h>
+using namespace std;
+
+int main(){
+  cout<<""hello""<<;
+
   return 0;
 }
